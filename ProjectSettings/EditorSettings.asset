@@ -3,11 +3,11 @@
 --- !u!159 &1
 EditorSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 12
+  serializedVersion: 13
   m_SerializationMode: 2
-  m_LineEndingsForNewScripts: 1
+  m_LineEndingsForNewScripts: 0
   m_DefaultBehaviorMode: 0
-  m_PrefabRegularEnvironment: {fileID: 0}
+  m_PrefabRegularEnvironment: {fileID: 102900000, guid: 0bb990679b9931648b9bad5fb1f7bf67, type: 3}
   m_PrefabUIEnvironment: {fileID: 0}
   m_SpritePackerMode: 0
   m_SpritePackerCacheSize: 10
@@ -18,7 +18,7 @@ EditorSettings:
   m_EtcTextureNormalCompressor: 2
   m_EtcTextureBestCompressor: 4
   m_ProjectGenerationIncludedExtensions: txt;xml;fnt;cd;asmdef;rsp;asmref
-  m_ProjectGenerationRootNamespace: 
+  m_ProjectGenerationRootNamespace: Unity.FantasyKingdom
   m_EnableTextureStreamingInEditMode: 1
   m_EnableTextureStreamingInPlayMode: 1
   m_EnableEditorAsyncCPUTextureLoading: 0
@@ -45,3 +45,4 @@ EditorSettings:
   m_CacheServerValidationMode: 2
   m_CacheServerDownloadBatchSize: 128
   m_EnableEnlightenBakedGI: 0
+  m_ReferencedClipsExactNaming: 0
