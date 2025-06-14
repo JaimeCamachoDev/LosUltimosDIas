@@ -63,9 +63,6 @@
   <ItemGroup>
     <Compile Include="Assets\VZ Optizone\Scripts\Editor\MenuItems\FolderVZCreator.cs" />
     <Compile Include="Assets\VZ Optizone\VZTools\Editor\DiscoverVZEditor.cs" />
-    <Compile Include="Assets\Scripts\Camera\Editor\CameraControllerSettingsEditor.cs" />
-    <Compile Include="Assets\Scripts\TutorialInfo\Editor\FKReadmeEditor.cs" />
-    <Compile Include="Assets\Scripts\Editor\MiscUtils.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
