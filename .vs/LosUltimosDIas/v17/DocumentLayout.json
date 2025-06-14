@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Github\\LosUltimosDIas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18F059BB-DEC7-03A1-5021-72C1761E56F7}|Assembly-CSharp.csproj|c:\\github\\losultimosdias\\assets\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18F059BB-DEC7-03A1-5021-72C1761E56F7}|Assembly-CSharp.csproj|C:\\Github\\LosUltimosDIas\\assets\\cainos\\pixel art top down - basic\\script\\topdowncharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F059BB-DEC7-03A1-5021-72C1761E56F7}|Assembly-CSharp.csproj|solutionrelative:assets\\cainos\\pixel art top down - basic\\script\\topdowncharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F059BB-DEC7-03A1-5021-72C1761E56F7}|Assembly-CSharp.csproj|c:\\github\\losultimosdias\\assets\\samples\\input system\\1.13.1\\simple demo\\simplecontroller_usingplayerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F059BB-DEC7-03A1-5021-72C1761E56F7}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\input system\\1.13.1\\simple demo\\simplecontroller_usingplayerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F059BB-DEC7-03A1-5021-72C1761E56F7}|Assembly-CSharp.csproj|C:\\Github\\LosUltimosDIas\\assets\\samples\\input system\\1.13.1\\simple demo\\simplecontroller_usingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F059BB-DEC7-03A1-5021-72C1761E56F7}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\input system\\1.13.1\\simple demo\\simplecontroller_usingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F059BB-DEC7-03A1-5021-72C1761E56F7}|Assembly-CSharp.csproj|C:\\Github\\LosUltimosDIas\\assets\\samples\\input system\\1.13.1\\simple demo\\simplecontroller_usingactionasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F059BB-DEC7-03A1-5021-72C1761E56F7}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\input system\\1.13.1\\simple demo\\simplecontroller_usingactionasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F059BB-DEC7-03A1-5021-72C1761E56F7}|Assembly-CSharp.csproj|C:\\Github\\LosUltimosDIas\\assets\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18F059BB-DEC7-03A1-5021-72C1761E56F7}|Assembly-CSharp.csproj|solutionrelative:assets\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,20 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleController_UsingPlayerInput.cs",
+              "DocumentMoniker": "C:\\Github\\LosUltimosDIas\\Assets\\Samples\\Input System\\1.13.1\\Simple Demo\\SimpleController_UsingPlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Input System\\1.13.1\\Simple Demo\\SimpleController_UsingPlayerInput.cs",
+              "ToolTip": "C:\\Github\\LosUltimosDIas\\Assets\\Samples\\Input System\\1.13.1\\Simple Demo\\SimpleController_UsingPlayerInput.cs",
+              "RelativeToolTip": "Assets\\Samples\\Input System\\1.13.1\\Simple Demo\\SimpleController_UsingPlayerInput.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:57:49.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleController_UsingState.cs",
+              "DocumentMoniker": "C:\\Github\\LosUltimosDIas\\Assets\\Samples\\Input System\\1.13.1\\Simple Demo\\SimpleController_UsingState.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Input System\\1.13.1\\Simple Demo\\SimpleController_UsingState.cs",
+              "ToolTip": "C:\\Github\\LosUltimosDIas\\Assets\\Samples\\Input System\\1.13.1\\Simple Demo\\SimpleController_UsingState.cs",
+              "RelativeToolTip": "Assets\\Samples\\Input System\\1.13.1\\Simple Demo\\SimpleController_UsingState.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:21:56.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleController_UsingActionAsset.cs",
+              "DocumentMoniker": "C:\\Github\\LosUltimosDIas\\Assets\\Samples\\Input System\\1.13.1\\Simple Demo\\SimpleController_UsingActionAsset.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Input System\\1.13.1\\Simple Demo\\SimpleController_UsingActionAsset.cs",
+              "ToolTip": "C:\\Github\\LosUltimosDIas\\Assets\\Samples\\Input System\\1.13.1\\Simple Demo\\SimpleController_UsingActionAsset.cs",
+              "RelativeToolTip": "Assets\\Samples\\Input System\\1.13.1\\Simple Demo\\SimpleController_UsingActionAsset.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:20:16.618Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TopDownCharacterController.cs",
+              "DocumentMoniker": "C:\\Github\\LosUltimosDIas\\Assets\\Cainos\\Pixel Art Top Down - Basic\\Script\\TopDownCharacterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Cainos\\Pixel Art Top Down - Basic\\Script\\TopDownCharacterController.cs",
+              "ToolTip": "C:\\Github\\LosUltimosDIas\\Assets\\Cainos\\Pixel Art Top Down - Basic\\Script\\TopDownCharacterController.cs",
+              "RelativeToolTip": "Assets\\Cainos\\Pixel Art Top Down - Basic\\Script\\TopDownCharacterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:58:02.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Mover.cs",
               "DocumentMoniker": "C:\\Github\\LosUltimosDIas\\Assets\\Mover.cs",
               "RelativeDocumentMoniker": "Assets\\Mover.cs",
-              "ToolTip": "C:\\Github\\LosUltimosDIas\\Assets\\Mover.cs*",
-              "RelativeToolTip": "Assets\\Mover.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Github\\LosUltimosDIas\\Assets\\Mover.cs",
+              "RelativeToolTip": "Assets\\Mover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T19:44:35.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T19:44:35.055Z"
             }
           ]
         }
